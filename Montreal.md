@@ -1,16 +1,30 @@
-Tea:
-Fairmont Queen Elizabeth hotel does a great one for only $26
+Tea: Fairmont Queen Elizabeth hotel does a great one for only $26
 
-coffee:
+Vietnamese ice cream
+
+# Bakeries
+
 hof kelsten
 
-vietnamese ice cream
+# Climbing
 
-climbing
 http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 
-Big in Japan
+# Bars
 
-Piccolo espresso bar - newLa banquise
+Big in Japan
 Dieux du ciel - micro brewery
 St-ambroise bar - very nice patio near canal lachine
+
+Piccolo espresso bar - new
+La banquise = poutine
+
+# Vintage stores
+
+http://www.mtlblog.com/2014/04/best-montreal-thrift-shops/
+
+http://www.tourisme-montreal.org/blog/thrift-shop-montreal-travel-thrifting-fashion/
+
+https://www.yelp.ca/search?cflt=thrift_stores&find_loc=Montr%C3%A9al%2C+QC
+
+http://www.themainmtl.com/2014/03/best-vintage-stores-montreal/

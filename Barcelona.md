@@ -1,2 +1,3 @@
-Enrique Tomás - Diagonal/Mallorca
-jamon sandwich
+Enrique Tomás - Diagonal/Mallorca. Take jamon sandwich
+
+Cafe Fresco - unlimited buffet
