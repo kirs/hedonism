@@ -1,10 +1,8 @@
-Tea: Fairmont Queen Elizabeth hotel does a great one for only $26
-
-Vietnamese ice cream
+* Vietnamese ice cream
 
 # Bakeries
 
-hof kelsten
+* hof kelsten
 
 # Climbing
 
@@ -12,12 +10,19 @@ http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 
 # Bars
 
-Big in Japan
-Dieux du ciel - micro brewery
-St-ambroise bar - very nice patio near canal lachine
+* Big in Japan
+* Dieux du ciel - micro brewery
+* St-ambroise bar - very nice patio near canal lachine
 
-Piccolo espresso bar - new
-La banquise = poutine
+# Coffee
+
+* Piccolo espresso bar - new
+* Tea: Fairmont Queen Elizabeth hotel does a great one for only $26
+
+
+# Food
+
+* La banquise = poutine
 
 # Vintage stores
 

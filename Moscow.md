@@ -1,5 +1,5 @@
-lao Lee cafe - asian
-caffe del parco - coffee on Dmitrovka
+* lao Lee cafe - asian
+* caffe del parco - coffee on Dmitrovka
 
 Soupme - soup cafe
 
