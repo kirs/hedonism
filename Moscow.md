@@ -4,3 +4,7 @@
 Soupme - soup cafe
 
 Усачевский рынок (Usachevsky market)
+
+beer & brut
+
+Чугунный мост
