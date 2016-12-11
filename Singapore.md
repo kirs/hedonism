@@ -1,1 +1,1 @@
-Cut restaurant
+* Cut restaurant (fancy steaks)

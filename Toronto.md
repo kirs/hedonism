@@ -1,2 +1,2 @@
-Georgian restaurant
-http://www.blogto.com/restaurants/aragvi-restaurant-toronto
+* [Aragvi](http://www.blogto.com/restaurants/aragvi-restaurant-toronto) (Georgian restaurant)
+* The Rex Hotel (live jazz every night)

@@ -2,13 +2,13 @@
 
 # Coffee
 
-* Massolit cafe <-- my favourite
+* **Massolit cafe <-- my favourite**
 * Kino Cafe
 * Contact Coffee
 * Goat Herder
 * Fekete
 
-# Bars with food
+# Gastro bars
 
 * Kisuzem
 * Szimple kerd
@@ -22,10 +22,10 @@
 
 # Other (mostly food)
 
-Pancakes: Nagyi Palacsintázója
-Cheap drinks: Csipesz Bar
+* Pancakes: Nagyi Palacsintázója
+* Cheap drinks: Csipesz Bar
 
 ## Street food
 
-Waffels: Habos Gofri
-Soup: LEVES.
+* Waffels: Habos Gofri
+* Soup: LEVES.
