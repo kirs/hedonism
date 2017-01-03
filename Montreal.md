@@ -1,5 +1,3 @@
-* Vietnamese ice cream
-
 # Bakeries
 
 * hof kelsten
@@ -19,10 +17,11 @@ http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 * Piccolo espresso bar - new
 * Tea: Fairmont Queen Elizabeth hotel does a great one for only $26
 
-
 # Food
 
 * La banquise = poutine
+* Au Pied de Cochon (fancy but worth it)
+* Vietnamese ice cream
 
 # Vintage stores
 
