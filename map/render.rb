@@ -12,7 +12,7 @@ class PublicMap
     tpl = ERB.new(File.read("public_map.html.erb"))
     result = tpl.result(b)
 
-    File.open("public_map.html", "w") do |f|
+    File.open("index.html", "w") do |f|
       f.write(result)
     end
   end
