@@ -8,6 +8,6 @@
 * The Black Hoof
 * Jack Pot Chicken Rice
 * WVRST (sausages and beer)
-* Otto's Berlin Döner
+* [Otto's Berlin Döner](http://ottosdoner.com/)
 
 (all credits to @Sirupsen)
