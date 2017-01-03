@@ -1,0 +1,266 @@
+---
+- query: adler, russia
+  lat: '43.4343234'
+  lng: '39.93394620000004'
+  country: Russia
+  full_address: Adler, Krasnodar Krai, Russia
+- query: venice beach, CA
+  lat: '33.9850469'
+  lng: "-118.46948320000001"
+  country: United States
+  full_address: Venice, Los Angeles, CA, USA
+- query: sunnyvale, CA
+  lat: '37.36883'
+  lng: "-122.0363496"
+  country: United States
+  full_address: Sunnyvale, CA, USA
+- query: chicago, IL
+  lat: '41.8781136'
+  lng: "-87.62979819999998"
+  country: United States
+  full_address: Chicago, IL, USA
+  guide: 'Chicago.md'
+- query: brooklyn, NY
+  lat: '40.6781784'
+  lng: "-73.9441579"
+  country: United States
+  full_address: Brooklyn, NY, USA
+- query: columbus circle, NYC
+  lat: '40.7680441'
+  lng: "-73.98237219999999"
+  country: United States
+  full_address: Columbus Cir, New York, NY, USA
+  guide: 'NYC.md'
+- query: lisbon, portugal
+  lat: '38.7222524'
+  lng: "-9.139336599999979"
+  country: Portugal
+  full_address: Lisbon, Portugal
+- query: porto, portugal
+  lat: '41.1579438'
+  lng: "-8.629105299999992"
+  country: Portugal
+  full_address: Porto, Portugal
+- query: paris, france
+  lat: '48.856614'
+  lng: '2.3522219000000177'
+  country: France
+  full_address: Paris, France
+- query: minsk, belarus
+  lat: '53.90453979999999'
+  lng: '27.561524400000053'
+  country: Belarus
+  full_address: Minsk, Belarus
+- query: helsinki, finland
+  lat: '60.16985569999999'
+  lng: '24.93837899999994'
+  country: Finland
+  full_address: Helsinki, Finland
+  guide: 'Helsinki.md'
+- query: turku, finland
+  lat: '60.4518126'
+  lng: '22.266630299999974'
+  country: Finland
+  full_address: Turku, Finland
+- query: stockholm, sweden
+  lat: '59.32932349999999'
+  lng: '18.068580800000063'
+  country: Sweden
+  full_address: Stockholm, Sweden
+- query: oslo, norway
+  lat: '59.9138688'
+  lng: '10.752245399999993'
+  country: Norway
+  full_address: Oslo, Norway
+- query: bergen, norway
+  lat: '60.39126279999999'
+  lng: '5.32205440000007'
+  country: Norway
+  full_address: Bergen, Norway
+- query: copenhagen, denmark
+  lat: '55.6760968'
+  lng: '12.568337100000008'
+  country: Denmark
+  full_address: Copenhagen, Denmark
+- query: riga, latvia
+  lat: '56.9496487'
+  lng: '24.10518639999998'
+  country: Latvia
+  full_address: Riga, Latvia
+- query: prague, CZ
+  lat: '50.0755381'
+  lng: '14.43780049999998'
+  country: Czechia
+  full_address: Prague, Czechia
+- query: berlin
+  lat: '52.52000659999999'
+  lng: '13.404953999999975'
+  country: Germany
+  full_address: Berlin, Germany
+  guide: 'Berlin.md'
+- query: kiev, ukraine
+  lat: '50.4501'
+  lng: '30.523400000000038'
+  country: Ukraine
+  full_address: Kiev, Ukraine
+- query: tbilisi, georgia
+  lat: '41.7151377'
+  lng: '44.82709599999998'
+  country: Georgia
+  full_address: Tbilisi, Georgia
+  guide: 'Georgia.md'
+- query: ekaterinburg, russia
+  lat: '56.83892609999999'
+  lng: '60.60570250000001'
+  country: Russia
+  full_address: Yekaterinburg, Sverdlovsk Oblast, Russia
+- query: saint petersburg, russia
+  lat: '59.9342802'
+  lng: '30.335098600000038'
+  country: Russia
+  full_address: St Petersburg, Russia
+  guide: 'Saint-Petersburg.md'
+- query: moscow, russia
+  lat: '55.755826'
+  lng: '37.6173'
+  country: Russia
+  full_address: Moscow, Russia
+  guide: 'Moscow.md'
+- query: toronto, ON
+  lat: '43.653226'
+  lng: "-79.38318429999998"
+  country: Canada
+  full_address: Toronto, ON, Canada
+  guide: 'Toronto.md'
+- query: niagara falls, ON
+  lat: '43.0895577'
+  lng: "-79.08494359999997"
+  country: Canada
+  full_address: Niagara Falls, ON, Canada
+- query: san diego, CA
+  lat: '32.715738'
+  lng: "-117.16108380000003"
+  country: United States
+  full_address: San Diego, CA, USA
+- query: kansas city
+  lat: '39.0997265'
+  lng: "-94.57856670000001"
+  country: United States
+  full_address: Kansas City, MO, USA
+- query: barcelona, spain
+  lat: '41.3850639'
+  lng: '2.1734034999999494'
+  country: Spain
+  full_address: Barcelona, Spain
+  guide: 'Barcelona.md'
+- query: rome, italy
+  lat: '41.9027835'
+  lng: '12.496365500000024'
+  country: Italy
+  full_address: Rome, Italy
+- query: milan, italy
+  lat: '45.4654219'
+  lng: '9.18592430000001'
+  country: Italy
+  full_address: Milan, Italy
+- query: zurich, switzerland
+  lat: '47.3768866'
+  lng: '8.541694000000007'
+  country: Switzerland
+  full_address: Zürich, Switzerland
+- query: amsterdam, neitherlands
+  lat: '52.3702157'
+  lng: '4.895167899999933'
+  country: Netherlands
+  full_address: Amsterdam, Netherlands
+  guide: 'Amsterdam.md'
+- query: hamburg, germany
+  lat: '53.5510846'
+  lng: '9.99368179999999'
+  country: Germany
+  full_address: Hamburg, Germany
+- query: malmo, sweden
+  lat: '55.604981'
+  lng: '13.003822000000014'
+  country: Sweden
+  full_address: Malmö, Sweden
+- query: singapore
+  lat: '1.352083'
+  lng: '103.81983600000001'
+  country: Singapore
+  full_address: Singapore
+  guide: 'Singapore.md'
+- query: koh pangan, thailand
+  lat: '9.731875299999999'
+  lng: '100.01359290000005'
+  country: Thailand
+  full_address: Ko Pha Ngan, Ko Pha-ngan District, Surat Thani 84280, Thailand
+- query: bangkok, thailand
+  lat: '13.7563309'
+  lng: '100.50176510000006'
+  country: Thailand
+  full_address: Bangkok, Thailand
+- query: macao
+  lat: '22.198745'
+  lng: '113.54387300000008'
+  country: Macau
+  full_address: Macau
+- query: hong kong
+  lat: '22.396428'
+  lng: '114.10949700000003'
+  country: Hong Kong
+  full_address: Hong Kong
+- query: vienna, austria
+  lat: '48.2081743'
+  lng: '16.37381890000006'
+  country: Austria
+  full_address: Vienna, Austria
+  guide: 'Vienna.md'
+- query: budapest, hungary
+  lat: '47.497912'
+  lng: '19.04023499999994'
+  country: Hungary
+  full_address: Budapest, Hungary
+  guide: 'Budapest.md'
+- query: odessa, ukraine
+  lat: '46.482526'
+  lng: '30.723309500000028'
+  country: Ukraine
+  full_address: Odessa, Odessa Oblast, Ukraine
+- query: madrid, spain
+  lat: '40.4167754'
+  lng: "-3.7037901999999576"
+  country: Spain
+  full_address: Madrid, Spain
+- query: lille, france
+  lat: '50.62925'
+  lng: '3.057256000000052'
+  country: France
+  full_address: Lille, France
+- query: hanover, germany
+  lat: '52.3758916'
+  lng: '9.732010400000036'
+  country: Germany
+  full_address: Hanover, Germany
+- query: brest, belarus
+  lat: '52.09762139999999'
+  lng: '23.734050300000035'
+  country: Belarus
+  full_address: Brest, Belarus
+- query: ottawa, ON
+  lat: '45.4215296'
+  lng: "-75.69719309999999"
+  country: Canada
+  full_address: Ottawa, ON, Canada
+  guide: 'Ottawa.md'
+- query: montreal, QC
+  lat: '45.5016889'
+  lng: "-73.56725599999999"
+  country: Canada
+  full_address: Montreal, QC, Canada
+  guide: 'Montreal.md'
+- query: atlanta, GA
+  lat: '33.7489954'
+  lng: "-84.3879824"
+  country: United States
+  full_address: Atlanta, GA, USA

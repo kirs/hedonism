@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+<%= File.read("public/reset.css") %>
+    </style>
+    <style>
+      body, html {
+        height: 100%;
+        width: 100%;
+      }
+      #map {
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+    <script>
+function markerIcon() {
+  return {
+    path: google.maps.SymbolPath.CIRCLE,
+    fillColor: 'red',
+    fillOpacity: .6,
+    scale: 4.5,
+    strokeColor: 'white',
+    strokeWeight: 1
+  };
+}
+function initMap() {
+  var uluru = { lat: -25.363, lng: 131.044 };
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 4,
+    center: uluru
+  });
+  var bounds = new google.maps.LatLngBounds();
+  function bindInfoWindow(marker, point) {
+      marker.addListener('click', function() {
+        var contentString = '<div id="content">'+
+          '<p>' + point.full_address + '</p>';
+        if(point.guide) {
+          var guideUrl = "https://github.com/kirs/travel-tips/blob/master/" + point.guide;
+          contentString = contentString + '<p><a target="_blank" href="' + guideUrl + '">Guide</a></p>';
+        }
+        contentString = contentString + '</div>';
+
+        var infowindow = new google.maps.InfoWindow({
+          content: contentString
+        });
+        if(window.lastInfoWindow) window.lastInfoWindow.close();
+        window.lastInfoWindow = infowindow;
+        infowindow.open(map, marker);
+      });
+  };
+
+  <% points.each do |point| %>
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("<%= point.fetch("lat") %>", "<%= point.fetch("lng") %>"),
+    });
+
+    bindInfoWindow(marker, <%= point.to_json %>);
+    bounds.extend(marker.position);
+  <% end %>
+  map.fitBounds(bounds);
+}
+</script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcBBH5ozIHcl26Eew6BPf09Bh9Hg0QxXs&callback=initMap">
+    </script>
+  </body>
+</html>

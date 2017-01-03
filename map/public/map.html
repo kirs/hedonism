@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="reset.css" title="" type="" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+      #map {
+        height: 400px;
+        width: 100%;
+       }
+       .address-field {
+         font-size: 18px;
+         padding: 6px;
+         width: 100%;
+         box-sizing: border-box;
+         margin: 10px 0 10px 0;
+       }
+       .app {
+         padding: 0 10px 0 10px;
+       }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <input class="address-field" placeholder="City to add..." type="text" />
+      <div id="map"></div>
+    </div>
+    <script src="map.js"></script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcBBH5ozIHcl26Eew6BPf09Bh9Hg0QxXs&callback=initMap">
+    </script>
+  </body>
+</html>
