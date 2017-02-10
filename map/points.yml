@@ -264,3 +264,28 @@
   lng: "-84.3879824"
   country: United States
   full_address: Atlanta, GA, USA
+- query: Cape Town
+  lat: "-33.9248685"
+  lng: '18.424055299999964'
+  country: South Africa
+  full_address: Cape Town, South Africa
+- query: cape of good hope south africa
+  lat: "-34.3568425"
+  lng: '18.473988200000008'
+  country: South Africa
+  full_address: Cape of Good Hope, Cape Point Rd, Cape Town, 8001, South Africa
+- query: puerto vallarta
+  lat: '20.653407'
+  lng: "-105.2253316"
+  country: Mexico
+  full_address: Puerto Vallarta, Jalisco, Mexico
+- query: quebec city
+  lat: '46.8138783'
+  lng: "-71.2079809"
+  country: Canada
+  full_address: Québec City, QC, Canada
+- query: saint felicien
+  lat: '48.6517071'
+  lng: "-72.44897759999998"
+  country: Canada
+  full_address: Saint-Félicien, QC, Canada
