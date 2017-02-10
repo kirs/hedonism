@@ -289,3 +289,8 @@
   lng: "-72.44897759999998"
   country: Canada
   full_address: Saint-Félicien, QC, Canada
+- query: tallinn, estonia
+  lat: '59.43696079999999'
+  lng: '24.75357459999998'
+  country: Estonia
+  full_address: Tallinn, Estonia
