@@ -1,4 +1,5 @@
 require 'yaml'
+require 'digest'
 
 module Helpers
   extend self
@@ -14,8 +15,7 @@ module Helpers
   end
 
   def hash_for(point)
-    hash = [point.fetch("lng"), point.fetch("lat")].hash
-    hash *= -1 if hash < 0
-    hash.to_s
+    hash = [point.fetch("lng"), point.fetch("lat")].join("_")
+    Digest::MD5.hexdigest(hash)
   end
 end
