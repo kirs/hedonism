@@ -19,7 +19,7 @@
   lng: "-87.62979819999998"
   country: United States
   full_address: Chicago, IL, USA
-  guide: 'Chicago.md'
+  guide: Chicago.md
 - query: brooklyn, NY
   lat: '40.6781784'
   lng: "-73.9441579"
@@ -30,7 +30,7 @@
   lng: "-73.98237219999999"
   country: United States
   full_address: Columbus Cir, New York, NY, USA
-  guide: 'NYC.md'
+  guide: NYC.md
 - query: lisbon, portugal
   lat: '38.7222524'
   lng: "-9.139336599999979"
@@ -56,7 +56,7 @@
   lng: '24.93837899999994'
   country: Finland
   full_address: Helsinki, Finland
-  guide: 'Helsinki.md'
+  guide: Helsinki.md
 - query: turku, finland
   lat: '60.4518126'
   lng: '22.266630299999974'
@@ -97,7 +97,7 @@
   lng: '13.404953999999975'
   country: Germany
   full_address: Berlin, Germany
-  guide: 'Berlin.md'
+  guide: Berlin.md
 - query: kiev, ukraine
   lat: '50.4501'
   lng: '30.523400000000038'
@@ -108,7 +108,7 @@
   lng: '44.82709599999998'
   country: Georgia
   full_address: Tbilisi, Georgia
-  guide: 'Georgia.md'
+  guide: Georgia.md
 - query: ekaterinburg, russia
   lat: '56.83892609999999'
   lng: '60.60570250000001'
@@ -119,19 +119,19 @@
   lng: '30.335098600000038'
   country: Russia
   full_address: St Petersburg, Russia
-  guide: 'Saint-Petersburg.md'
+  guide: Saint-Petersburg.md
 - query: moscow, russia
   lat: '55.755826'
   lng: '37.6173'
   country: Russia
   full_address: Moscow, Russia
-  guide: 'Moscow.md'
+  guide: Moscow.md
 - query: toronto, ON
   lat: '43.653226'
   lng: "-79.38318429999998"
   country: Canada
   full_address: Toronto, ON, Canada
-  guide: 'Toronto.md'
+  guide: Toronto.md
 - query: niagara falls, ON
   lat: '43.0895577'
   lng: "-79.08494359999997"
@@ -152,7 +152,7 @@
   lng: '2.1734034999999494'
   country: Spain
   full_address: Barcelona, Spain
-  guide: 'Barcelona.md'
+  guide: Barcelona.md
 - query: rome, italy
   lat: '41.9027835'
   lng: '12.496365500000024'
@@ -173,7 +173,7 @@
   lng: '4.895167899999933'
   country: Netherlands
   full_address: Amsterdam, Netherlands
-  guide: 'Amsterdam.md'
+  guide: Amsterdam.md
 - query: hamburg, germany
   lat: '53.5510846'
   lng: '9.99368179999999'
@@ -189,7 +189,7 @@
   lng: '103.81983600000001'
   country: Singapore
   full_address: Singapore
-  guide: 'Singapore.md'
+  guide: Singapore.md
 - query: koh pangan, thailand
   lat: '9.731875299999999'
   lng: '100.01359290000005'
@@ -215,13 +215,13 @@
   lng: '16.37381890000006'
   country: Austria
   full_address: Vienna, Austria
-  guide: 'Vienna.md'
+  guide: Vienna.md
 - query: budapest, hungary
   lat: '47.497912'
   lng: '19.04023499999994'
   country: Hungary
   full_address: Budapest, Hungary
-  guide: 'Budapest.md'
+  guide: Budapest.md
 - query: odessa, ukraine
   lat: '46.482526'
   lng: '30.723309500000028'
@@ -252,13 +252,13 @@
   lng: "-75.69719309999999"
   country: Canada
   full_address: Ottawa, ON, Canada
-  guide: 'Ottawa.md'
+  guide: Ottawa.md
 - query: montreal, QC
   lat: '45.5016889'
   lng: "-73.56725599999999"
   country: Canada
   full_address: Montreal, QC, Canada
-  guide: 'Montreal.md'
+  guide: Montreal.md
 - query: atlanta, GA
   lat: '33.7489954'
   lng: "-84.3879824"
