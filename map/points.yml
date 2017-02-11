@@ -294,3 +294,48 @@
   lng: '24.75357459999998'
   country: Estonia
   full_address: Tallinn, Estonia
+- query: brussels, belgium
+  lat: '50.8503463'
+  lng: '4.351721099999963'
+  country: Belgium
+  full_address: Brussels, Belgium
+- query: bruges, belgium
+  lat: '51.209348'
+  lng: '3.2246995000000425'
+  country: Belgium
+  full_address: Bruges, Belgium
+- query: rotterdam
+  lat: '51.9244201'
+  lng: '4.477732500000002'
+  country: Netherlands
+  full_address: Rotterdam, Netherlands
+- query: cadiz, spain
+  lat: '36.5270612'
+  lng: "-6.288596200000029"
+  country: Spain
+  full_address: Cádiz, Spain
+- query: seville, spain
+  lat: '37.3890924'
+  lng: "-5.984458899999936"
+  country: Spain
+  full_address: Seville, Sevilla, Spain
+- query: granada, spain
+  lat: '37.1773363'
+  lng: "-3.5985570999999936"
+  country: Spain
+  full_address: Granada, Spain
+- query: kazbegi, georgia
+  lat: '42.66026799999999'
+  lng: '44.641143000000056'
+  country: Georgia
+  full_address: Stepantsminda, Georgia
+- query: cheboksary, russia
+  lat: '56.11676629999999'
+  lng: '47.262782000000016'
+  country: Russia
+  full_address: Cheboksary, Chuvashia Republic, Russia
+- query: samara, russia
+  lat: '53.2415041'
+  lng: '50.22124629999996'
+  country: Russia
+  full_address: Samara, Samara Oblast, Russia

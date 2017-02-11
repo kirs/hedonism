@@ -605,6 +605,87 @@ function initMap() {
     bindInfoWindow(marker, {"query":"tallinn, estonia","lat":"59.43696079999999","lng":"24.75357459999998","country":"Estonia","full_address":"Tallinn, Estonia","hash":"436e5ba09b0bc9ea6cc2c4636dd5ef31"});
     bounds.extend(marker.position);
   
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("50.8503463", "4.351721099999963"),
+    });
+
+    bindInfoWindow(marker, {"query":"brussels, belgium","lat":"50.8503463","lng":"4.351721099999963","country":"Belgium","full_address":"Brussels, Belgium","hash":"f5dbe91733f75ae6d2ed27140e23aa5d"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("51.209348", "3.2246995000000425"),
+    });
+
+    bindInfoWindow(marker, {"query":"bruges, belgium","lat":"51.209348","lng":"3.2246995000000425","country":"Belgium","full_address":"Bruges, Belgium","hash":"c6e4a8686a08d8fecbb6a3c9ea332cce"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("51.9244201", "4.477732500000002"),
+    });
+
+    bindInfoWindow(marker, {"query":"rotterdam","lat":"51.9244201","lng":"4.477732500000002","country":"Netherlands","full_address":"Rotterdam, Netherlands","hash":"2edfbe939b86aa4e32bf2f04510d9da1"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("36.5270612", "-6.288596200000029"),
+    });
+
+    bindInfoWindow(marker, {"query":"cadiz, spain","lat":"36.5270612","lng":"-6.288596200000029","country":"Spain","full_address":"Cádiz, Spain","hash":"c66624ee230a80e0e5b93c4cada625fe"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("37.3890924", "-5.984458899999936"),
+    });
+
+    bindInfoWindow(marker, {"query":"seville, spain","lat":"37.3890924","lng":"-5.984458899999936","country":"Spain","full_address":"Seville, Sevilla, Spain","hash":"90b96994d26ed56c207cc7e31a927e76"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("37.1773363", "-3.5985570999999936"),
+    });
+
+    bindInfoWindow(marker, {"query":"granada, spain","lat":"37.1773363","lng":"-3.5985570999999936","country":"Spain","full_address":"Granada, Spain","hash":"6fba12fb6459b9dbb5c20563989aad98"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("42.66026799999999", "44.641143000000056"),
+    });
+
+    bindInfoWindow(marker, {"query":"kazbegi, georgia","lat":"42.66026799999999","lng":"44.641143000000056","country":"Georgia","full_address":"Stepantsminda, Georgia","hash":"9d0484ed155613f1a3196fdd9005927f"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("56.11676629999999", "47.262782000000016"),
+    });
+
+    bindInfoWindow(marker, {"query":"cheboksary, russia","lat":"56.11676629999999","lng":"47.262782000000016","country":"Russia","full_address":"Cheboksary, Chuvashia Republic, Russia","hash":"03ff6407c44fbc0fa6f5af46096376ed"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("53.2415041", "50.22124629999996"),
+    });
+
+    bindInfoWindow(marker, {"query":"samara, russia","lat":"53.2415041","lng":"50.22124629999996","country":"Russia","full_address":"Samara, Samara Oblast, Russia","hash":"d7cb809bdabf380f808283fad084cdc8"});
+    bounds.extend(marker.position);
+  
   map.fitBounds(bounds);
 }
 </script>
