@@ -8,6 +8,10 @@ require "erb"
 
 require_relative './helpers'
 
+get "/" do
+  send_file "public/map.html"
+end
+
 post "/submit" do
   points = Helpers.read_points
   points << params
