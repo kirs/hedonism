@@ -56,6 +56,8 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
+      streetViewControl: false,
+      mapTypeControl: false,
       position: new google.maps.LatLng("<%= point.fetch("lat") %>", "<%= point.fetch("lng") %>"),
     });
 
