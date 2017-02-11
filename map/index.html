@@ -78,7 +78,9 @@ function initMap() {
   var uluru = { lat: -25.363, lng: 131.044 };
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 4,
-    center: uluru
+    center: uluru,
+    streetViewControl: false,
+    mapTypeControl: false
   });
   var bounds = new google.maps.LatLngBounds();
   function bindInfoWindow(marker, point) {
@@ -104,8 +106,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("43.4343234", "39.93394620000004"),
     });
 
@@ -115,8 +115,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("33.9850469", "-118.46948320000001"),
     });
 
@@ -126,8 +124,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("37.36883", "-122.0363496"),
     });
 
@@ -137,8 +133,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("41.8781136", "-87.62979819999998"),
     });
 
@@ -148,8 +142,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("40.6781784", "-73.9441579"),
     });
 
@@ -159,8 +151,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("40.7680441", "-73.98237219999999"),
     });
 
@@ -170,8 +160,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("38.7222524", "-9.139336599999979"),
     });
 
@@ -181,8 +169,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("41.1579438", "-8.629105299999992"),
     });
 
@@ -192,8 +178,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("48.856614", "2.3522219000000177"),
     });
 
@@ -203,8 +187,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("53.90453979999999", "27.561524400000053"),
     });
 
@@ -214,8 +196,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("60.16985569999999", "24.93837899999994"),
     });
 
@@ -225,8 +205,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("60.4518126", "22.266630299999974"),
     });
 
@@ -236,8 +214,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("59.32932349999999", "18.068580800000063"),
     });
 
@@ -247,8 +223,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("59.9138688", "10.752245399999993"),
     });
 
@@ -258,8 +232,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("60.39126279999999", "5.32205440000007"),
     });
 
@@ -269,8 +241,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("55.6760968", "12.568337100000008"),
     });
 
@@ -280,8 +250,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("56.9496487", "24.10518639999998"),
     });
 
@@ -291,8 +259,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("50.0755381", "14.43780049999998"),
     });
 
@@ -302,8 +268,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("52.52000659999999", "13.404953999999975"),
     });
 
@@ -313,8 +277,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("50.4501", "30.523400000000038"),
     });
 
@@ -324,8 +286,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("41.7151377", "44.82709599999998"),
     });
 
@@ -335,8 +295,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("56.83892609999999", "60.60570250000001"),
     });
 
@@ -346,8 +304,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("59.9342802", "30.335098600000038"),
     });
 
@@ -357,8 +313,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("55.755826", "37.6173"),
     });
 
@@ -368,8 +322,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("43.653226", "-79.38318429999998"),
     });
 
@@ -379,8 +331,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("43.0895577", "-79.08494359999997"),
     });
 
@@ -390,8 +340,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("32.715738", "-117.16108380000003"),
     });
 
@@ -401,8 +349,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("39.0997265", "-94.57856670000001"),
     });
 
@@ -412,8 +358,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("41.3850639", "2.1734034999999494"),
     });
 
@@ -423,8 +367,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("41.9027835", "12.496365500000024"),
     });
 
@@ -434,8 +376,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("45.4654219", "9.18592430000001"),
     });
 
@@ -445,8 +385,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("47.3768866", "8.541694000000007"),
     });
 
@@ -456,8 +394,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("52.3702157", "4.895167899999933"),
     });
 
@@ -467,8 +403,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("53.5510846", "9.99368179999999"),
     });
 
@@ -478,8 +412,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("55.604981", "13.003822000000014"),
     });
 
@@ -489,8 +421,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("1.352083", "103.81983600000001"),
     });
 
@@ -500,8 +430,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("9.731875299999999", "100.01359290000005"),
     });
 
@@ -511,8 +439,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("13.7563309", "100.50176510000006"),
     });
 
@@ -522,8 +448,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("22.198745", "113.54387300000008"),
     });
 
@@ -533,8 +457,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("22.396428", "114.10949700000003"),
     });
 
@@ -544,8 +466,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("48.2081743", "16.37381890000006"),
     });
 
@@ -555,8 +475,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("47.497912", "19.04023499999994"),
     });
 
@@ -566,8 +484,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("46.482526", "30.723309500000028"),
     });
 
@@ -577,8 +493,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("40.4167754", "-3.7037901999999576"),
     });
 
@@ -588,8 +502,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("50.62925", "3.057256000000052"),
     });
 
@@ -599,8 +511,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("52.3758916", "9.732010400000036"),
     });
 
@@ -610,8 +520,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("52.09762139999999", "23.734050300000035"),
     });
 
@@ -621,8 +529,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("45.4215296", "-75.69719309999999"),
     });
 
@@ -632,8 +538,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("45.5016889", "-73.56725599999999"),
     });
 
@@ -643,8 +547,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("33.7489954", "-84.3879824"),
     });
 
@@ -654,8 +556,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("-33.9248685", "18.424055299999964"),
     });
 
@@ -665,8 +565,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("-34.3568425", "18.473988200000008"),
     });
 
@@ -676,8 +574,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("20.653407", "-105.2253316"),
     });
 
@@ -687,8 +583,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("46.8138783", "-71.2079809"),
     });
 
@@ -698,8 +592,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("48.6517071", "-72.44897759999998"),
     });
 
@@ -709,8 +601,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("59.43696079999999", "24.75357459999998"),
     });
 
@@ -720,8 +610,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("50.8503463", "4.351721099999963"),
     });
 
@@ -731,8 +619,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("51.209348", "3.2246995000000425"),
     });
 
@@ -742,8 +628,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("51.9244201", "4.477732500000002"),
     });
 
@@ -753,8 +637,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("36.5270612", "-6.288596200000029"),
     });
 
@@ -764,8 +646,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("37.3890924", "-5.984458899999936"),
     });
 
@@ -775,8 +655,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("37.1773363", "-3.5985570999999936"),
     });
 
@@ -786,8 +664,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("42.66026799999999", "44.641143000000056"),
     });
 
@@ -797,8 +673,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("56.11676629999999", "47.262782000000016"),
     });
 
@@ -808,8 +682,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("53.2415041", "50.22124629999996"),
     });
 

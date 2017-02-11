@@ -30,7 +30,9 @@ function initMap() {
   var uluru = { lat: -25.363, lng: 131.044 };
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 4,
-    center: uluru
+    center: uluru,
+    streetViewControl: false,
+    mapTypeControl: false
   });
   var bounds = new google.maps.LatLngBounds();
   function bindInfoWindow(marker, point) {
@@ -56,8 +58,6 @@ function initMap() {
     var marker = new google.maps.Marker({
       map: map,
       icon: markerIcon(),
-      streetViewControl: false,
-      mapTypeControl: false,
       position: new google.maps.LatLng("<%= point.fetch("lat") %>", "<%= point.fetch("lng") %>"),
     });
 
