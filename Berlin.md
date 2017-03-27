@@ -4,8 +4,14 @@
 
 * Twinpigs - bar & food
 * [Thaipark](http://www.thaipark.de/) - thai street food park, open in summer
+* Gel gor kofteci
+* mustafas gemüse kebab
 
 # Misc
 
 * Agora collective coworking
 * New Deli Yoga
+
+# Architecture
+
+* Jacob and Wilhelm Grimm Center
