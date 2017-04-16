@@ -31,7 +31,7 @@
 * Rex
 * Think coffee
 * Petee's Pie Company
-* Box Kite Coffee
+* Box Kite Coffee in East Village (turns out to be closed and reopened in Upper West side!)
 
 # Bars
 
