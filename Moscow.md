@@ -19,3 +19,4 @@
 * lao Lee cafe - asian
 * Soupme - soup cafe recommended by Sitnik
 * [Pasta time](http://pastatime.ru/pasta-time-menu/)
+* Cook'kareku (breakfasts)
