@@ -339,3 +339,18 @@
   lng: '50.22124629999996'
   country: Russia
   full_address: Samara, Samara Oblast, Russia
+- query: London, UK
+  lat: '51.5073509'
+  lng: "-0.12775829999998223"
+  country: United Kingdom
+  full_address: London, UK
+- query: Bratislava, Slovakia
+  lat: '48.1485965'
+  lng: '17.107747700000004'
+  country: Slovakia
+  full_address: Bratislava, Slovakia
+- query: Salzburg, Austria
+  lat: '47.80949'
+  lng: '13.055010000000038'
+  country: Austria
+  full_address: Salzburg, Austria
