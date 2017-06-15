@@ -11,6 +11,7 @@
 
 * The Hussar Grill
 * Quay Four
+* Wolfgat (restaurant by Kobus van der Merwe)
 
 # Beer
 
