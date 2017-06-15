@@ -3,21 +3,20 @@
 # Coffee
 
 * **Massolit cafe <-- my favourite**
-* Kino Cafe
-* Contact Coffee
+* Kino Cafe <-- mediocre cofee but laptop friendly
+* Contact Coffee <-- the best if you're looking especially for good coffee
 * Goat Herder
 * Fekete
 
 # Gastro bars
 
-* Kisuzem
-* Szimple kerd
+* Kisuzem (come for dinner, get fröccs and bifteki)
+* Szimpla kert
 * Castro bisztro
 
 # Restaurants
 
 * Bordo Bisztro
-* ket szerecsen
 * First Strudel House of Pest (Reteshaz)
 
 # Other (mostly food)
@@ -35,5 +34,4 @@
 Budapest is really close to Vienna which is one of my favourite cities.
 If you have an extra day, you can take a bus or train there. It's only 2.5 hours from Budapest.
 
-For cheapest option, take orange lines bus (15 eur).
-For more comfortable option with wifi onboard, take the train (20-30 eur).
+For cheapest option, take orange lines bus (15 eur). For more comfortable option with wifi onboard, take the train (20-30 eur).
