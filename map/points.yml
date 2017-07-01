@@ -354,3 +354,23 @@
   lng: '13.055010000000038'
   country: Austria
   full_address: Salzburg, Austria
+- query: Banff, Canada
+  lat: '51.1783629'
+  lng: "-115.57076940000002"
+  country: Canada
+  full_address: Banff, AB, Canada
+- query: Calgary, Canada
+  lat: '51.0486151'
+  lng: "-114.0708459"
+  country: Canada
+  full_address: Calgary, AB, Canada
+- query: Dresden, Germany
+  lat: '51.0504088'
+  lng: '13.737262099999953'
+  country: Germany
+  full_address: Dresden, Germany
+- query: Istanbul, Turkey
+  lat: '41.0082376'
+  lng: '28.97835889999999'
+  country: Turkey
+  full_address: Istanbul, İstanbul, Turkey
