@@ -11,8 +11,8 @@
 # Gastro bars
 
 * Kisuzem (come for dinner, get fröccs and bifteki)
-* Szimpla kert
-* Castro bisztro
+* Szimpla kert (also a farmer market on Sunday noon)
+* Castro bisztro (not so good anymore but still decent food)
 
 # Restaurants
 
