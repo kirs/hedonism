@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <style>
 <%= File.read("public/reset.css") %>
     </style>
@@ -27,10 +26,10 @@ function markerIcon() {
   };
 }
 function initMap() {
-  var uluru = { lat: -25.363, lng: 131.044 };
+  var centerOfTheWorld = { lat: -25.363, lng: 131.044 };
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 4,
-    center: uluru,
+    center: centerOfTheWorld,
     streetViewControl: false,
     mapTypeControl: false
   });
