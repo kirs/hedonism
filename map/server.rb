@@ -9,7 +9,7 @@ require "erb"
 require_relative './helpers'
 
 get "/" do
-  send_file "public/map.html"
+  send_file "public/admin.html"
 end
 
 post "/submit" do
