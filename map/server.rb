@@ -7,6 +7,7 @@ require "yaml"
 require "erb"
 
 require_relative './helpers'
+require_relative './static_map'
 
 get "/" do
   send_file "public/admin.html"
@@ -19,6 +20,8 @@ post "/submit" do
   File.open("points.yml", "w") do |f|
     f.write(points.to_yaml)
   end
+
+  StaticMap.render
 
   status 200
 end
