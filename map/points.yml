@@ -374,3 +374,33 @@
   lng: '28.97835889999999'
   country: Turkey
   full_address: Istanbul, İstanbul, Turkey
+- query: Zagreb, Croatia
+  lat: '45.8150108'
+  lng: '15.981918899999982'
+  country: Croatia
+  full_address: Zagreb, Croatia
+- query: Ljubjana, Slovenia
+  lat: '46.0569465'
+  lng: '14.505751499999974'
+  country: Slovenia
+  full_address: Ljubljana, Slovenia
+- query: Koper, Slovenia
+  lat: '45.54805899999999'
+  lng: '13.730187699999988'
+  country: Slovenia
+  full_address: 6000 Koper, Slovenia
+- query: Venice, Italy
+  lat: '45.4408474'
+  lng: '12.31551509999997'
+  country: Italy
+  full_address: Venice, Metropolitan City of Venice, Italy
+- query: Trieste, Italy
+  lat: '45.6495264'
+  lng: '13.77681819999998'
+  country: Italy
+  full_address: Trieste, Province of Trieste, Italy
+- query: Ryazan, Russia
+  lat: '54.6095418'
+  lng: '39.71258569999998'
+  country: Russia
+  full_address: Ryazan, Ryazan Oblast, Russia
