@@ -3,7 +3,7 @@
 # Coffee
 
 * **Massolit cafe <-- my favourite**
-* Kino Cafe <-- mediocre cofee but laptop friendly
+* Kino Cafe <-- mediocre cofee but laptop friendly, food available
 * Contact Coffee <-- the best if you're looking especially for good coffee
 * Goat Herder
 * Fekete

@@ -5,6 +5,7 @@
 ## Food
 
 * Toma Tu Tiempo (A++ tapas)
+* Cafe Mercur (local lunches)
 
 ## Coffee
 
