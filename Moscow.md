@@ -10,6 +10,7 @@
 * [Прогресс](https://daily.afisha.ru/eating/3083-progress-pivnaya-troyka-i-otlichnyy-kofe-na-presne/)
 * Dizengof 99 - Jewish, Taganskaya
 * Хинкали Gали!
+* Чито-ра (Chito Ra) - true georgian
 
 # Restaurants
 
@@ -20,3 +21,4 @@
 * lao Lee cafe - asian
 * [Pasta time](http://pastatime.ru/pasta-time-menu/)
 * Cook'kareku (breakfasts)
+* Mushrooms
