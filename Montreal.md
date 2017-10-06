@@ -22,6 +22,10 @@ http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 * La banquise = poutine
 * Au Pied de Cochon (fancy but worth it)
 * Vietnamese ice cream
+* [Montréal Plaza](https://montrealplaza.com/en/)
+* Yokato Yokabai (ramen)
+* [Joe Beef](http://joebeef.ca/)
+
 
 # Vintage stores
 
