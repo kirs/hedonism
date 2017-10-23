@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <style>
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
@@ -75,10 +74,10 @@ function markerIcon() {
   };
 }
 function initMap() {
-  var uluru = { lat: -25.363, lng: 131.044 };
+  var centerOfTheWorld = { lat: -25.363, lng: 131.044 };
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 4,
-    center: uluru,
+    center: centerOfTheWorld,
     streetViewControl: false,
     mapTypeControl: false
   });
@@ -803,6 +802,60 @@ function initMap() {
     });
 
     bindInfoWindow(marker, {"query":"Ryazan, Russia","lat":"54.6095418","lng":"39.71258569999998","country":"Russia","full_address":"Ryazan, Ryazan Oblast, Russia","hash":"7265011f43860a3776a750e30cfb1b28"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("53.3498053", "-6.260309699999993"),
+    });
+
+    bindInfoWindow(marker, {"query":"Dublin","lat":"53.3498053","lng":"-6.260309699999993","country":"Ireland","full_address":"Dublin, Ireland","hash":"af1c24be6bf243f7a930849533863f22"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("51.38964600000001", "1.386833900000056"),
+    });
+
+    bindInfoWindow(marker, {"query":"Margate, UK","lat":"51.38964600000001","lng":"1.386833900000056","country":"United Kingdom","full_address":"Margate, UK","hash":"a2197869485b3837a1099a8f66c96bb1"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("53.07929619999999", "8.801693600000021"),
+    });
+
+    bindInfoWindow(marker, {"query":"Bremen","lat":"53.07929619999999","lng":"8.801693600000021","country":"Germany","full_address":"Bremen, Germany","hash":"48953727c4b30f12d26a0a0935513d2c"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("44.119371", "15.231364799999938"),
+    });
+
+    bindInfoWindow(marker, {"query":"Zadar, Croatia","lat":"44.119371","lng":"15.231364799999938","country":"Croatia","full_address":"Zadar, Croatia","hash":"441006793e241623ae1e05e54b9c91a3"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("43.6158299", "13.518914999999993"),
+    });
+
+    bindInfoWindow(marker, {"query":"Ancona, Italy","lat":"43.6158299","lng":"13.518914999999993","country":"Italy","full_address":"Ancona, Province of Ancona, Italy","hash":"ee5138441ac0f399149ca8cf7abbf386"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("43.94236", "12.457776999999965"),
+    });
+
+    bindInfoWindow(marker, {"query":"San Marino","lat":"43.94236","lng":"12.457776999999965","country":"San Marino","full_address":"San Marino","hash":"9469a7ee6c448cafa886112490455f57"});
     bounds.extend(marker.position);
   
   map.fitBounds(bounds);

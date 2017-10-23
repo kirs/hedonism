@@ -404,3 +404,33 @@
   lng: '39.71258569999998'
   country: Russia
   full_address: Ryazan, Ryazan Oblast, Russia
+- query: Dublin
+  lat: '53.3498053'
+  lng: "-6.260309699999993"
+  country: Ireland
+  full_address: Dublin, Ireland
+- query: Margate, UK
+  lat: '51.38964600000001'
+  lng: '1.386833900000056'
+  country: United Kingdom
+  full_address: Margate, UK
+- query: Bremen
+  lat: '53.07929619999999'
+  lng: '8.801693600000021'
+  country: Germany
+  full_address: Bremen, Germany
+- query: Zadar, Croatia
+  lat: '44.119371'
+  lng: '15.231364799999938'
+  country: Croatia
+  full_address: Zadar, Croatia
+- query: Ancona, Italy
+  lat: '43.6158299'
+  lng: '13.518914999999993'
+  country: Italy
+  full_address: Ancona, Province of Ancona, Italy
+- query: San Marino
+  lat: '43.94236'
+  lng: '12.457776999999965'
+  country: San Marino
+  full_address: San Marino
