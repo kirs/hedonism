@@ -8,9 +8,10 @@ http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 
 # Bars
 
+* Dieu du Ciel! (gastropub, great tapas plates!)
 * Big in Japan
-* Dieux du ciel - micro brewery
-* St-ambroise bar - very nice patio near canal lachine
+* Dieux du ciel (micro brewery)
+* St-ambroise bar (very nice patio near canal lachine)
 
 # Coffee
 
