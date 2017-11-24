@@ -8,3 +8,4 @@
 
 * Karakoy Gulluoglu (baklava with ice cream)
 * Privato Cafe (full breakfast with 10 dishes)
+* Mandabatmaz
