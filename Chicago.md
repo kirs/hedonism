@@ -1,5 +1,6 @@
 # Food
 
+* *Frontera Grill* (or any other restaurant by Rick Bayless)
 * Giordano's pizza
 * Toppers pizza
 * Flo taco place
@@ -9,6 +10,10 @@
 
 * Piece brewery
 
+# Music
+
+* Blue Chicago
+
 # Tours
 
-Chicago Architecture Foundation
+* Chicago Architecture Foundation
