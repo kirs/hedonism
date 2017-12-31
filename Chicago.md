@@ -1,6 +1,6 @@
 # Food
 
-* *Frontera Grill* (or any other restaurant by Rick Bayless)
+* **Frontera Grill** (or any other restaurant by Rick Bayless)
 * Giordano's pizza
 * Toppers pizza
 * Flo taco place
