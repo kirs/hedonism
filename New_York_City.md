@@ -1,8 +1,8 @@
-# Walk
+# Walks
 
 * Roosevelt island (take a cableway)
 * Highline park
-* Brooklyn botanical garden
+* Brooklyn Botanical garden
 * MTA transport museum in Brooklyn
 
 # Food
