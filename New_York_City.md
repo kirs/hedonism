@@ -20,6 +20,10 @@
 * Williamsburg Thai Cuisine
 * [Dosa food cart in Washington Square park](http://mashable.com/2014/10/19/dosa-man-food-cart-nyc/)
 
+# Pastry
+
+* Dominique Ansel Bakery
+
 # Vintage
 
 * Beacon closet
