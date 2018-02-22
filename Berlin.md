@@ -7,6 +7,12 @@
 * Gel gor kofteci
 * mustafas gemüse kebab
 
+# Gastropubs
+
+* Cordobar
+
+* Katz Orange
+
 # Misc
 
 * Agora collective coworking
