@@ -4,8 +4,14 @@
 
 * Salt (modern art museum), A++
 
-# Coffee
+# Food and cofee
 
 * Karakoy Gulluoglu (baklava with ice cream)
 * Privato Cafe (full breakfast with 10 dishes)
 * Mandabatmaz
+* Marmaris Bufe
+* Mambocino Coffee (in Beşiktaş)
+
+# Where to stay
+
+* Beşiktaş area is my favourite
