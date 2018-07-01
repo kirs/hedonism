@@ -6,6 +6,7 @@
 * [Thaipark](http://www.thaipark.de/) - thai street food park, open in summer
 * Gel gor kofteci
 * mustafas gemüse kebab
+* La Gatta
 
 # Gastropubs
 
