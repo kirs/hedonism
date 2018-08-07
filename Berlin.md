@@ -7,6 +7,7 @@
 * Gel gor kofteci
 * mustafas gemüse kebab
 * La Gatta
+* La Despensa (south american)
 
 # Gastropubs
 
