@@ -8,6 +8,7 @@
 * mustafas gemüse kebab
 * La Gatta
 * La Despensa (south american)
+* Hot Dog Soup
 
 # Gastropubs
 
