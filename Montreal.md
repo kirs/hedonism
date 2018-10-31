@@ -1,6 +1,9 @@
+Very incomplete, there's been a lot of places in Montreal that I recently explored! Ping me to get an updated list.
+
 # Bakeries
 
-* hof kelsten
+* Guillaume
+* hof kelsten (also do brunch!)
 
 # Climbing
 
@@ -15,6 +18,14 @@ http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 
 # Coffee
 
+Good for working:
+
+* Café Olimpico
+* Club Social
+* Cafe Neve
+* Cafe Replika
+
+* Arts Café (brunch)
 * Piccolo espresso bar - new
 * Tea: Fairmont Queen Elizabeth hotel does a great one for only $26
 
@@ -23,10 +34,13 @@ http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 * La banquise = poutine
 * Au Pied de Cochon (fancy but worth it)
 * Vietnamese ice cream
-* [Montréal Plaza](https://montrealplaza.com/en/)
 * Yokato Yokabai (ramen)
 * [Joe Beef](http://joebeef.ca/)
+* Icehouse (tex-mex)
+* La Tamalera
+* Dinette Triple Crown
 
+* [Montréal Plaza](https://montrealplaza.com/en/)
 
 # Vintage stores
 
