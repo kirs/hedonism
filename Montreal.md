@@ -18,12 +18,14 @@ http://www.tourisme-montreal.org/blog/extreme-sports-and-activities-in-montreal/
 
 # Coffee
 
-Good for working:
+Laptop friendly:
 
 * Café Olimpico
 * Club Social
 * Cafe Neve
 * Cafe Replika
+
+Good for something else:
 
 * Arts Café (brunch)
 * Piccolo espresso bar - new
