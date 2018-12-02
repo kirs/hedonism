@@ -10,6 +10,7 @@
 ## Coffee
 
 * kaffemik
+* Das Möbel Cafe (laptop friendly)
 
 ## Outdoor
 
