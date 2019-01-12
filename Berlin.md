@@ -3,7 +3,6 @@
 # Locals
 
 * Flea market at Boxhagener Platz (bought a bunch of hip clothes there for €5 each)
-* 
 
 # Coffee
 
