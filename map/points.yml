@@ -434,3 +434,23 @@
   lng: '12.457776999999965'
   country: San Marino
   full_address: San Marino
+- query: Marakesh
+  lat: '31.6294723'
+  lng: "-7.981084499999952"
+  country: Morocco
+  full_address: Marrakesh, Morocco
+- query: Casablanca
+  lat: '33.5731104'
+  lng: "-7.589843400000063"
+  country: Morocco
+  full_address: Casablanca, Morocco
+- query: Rabat
+  lat: '33.9715904'
+  lng: "-6.849812899999961"
+  country: Morocco
+  full_address: Rabat, Morocco
+- query: Fes, Morocco
+  lat: '34.0181246'
+  lng: "-5.00784509999994"
+  country: Morocco
+  full_address: Fes, Morocco

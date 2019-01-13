@@ -858,6 +858,42 @@ function initMap() {
     bindInfoWindow(marker, {"query":"San Marino","lat":"43.94236","lng":"12.457776999999965","country":"San Marino","full_address":"San Marino","hash":"9469a7ee6c448cafa886112490455f57"});
     bounds.extend(marker.position);
   
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("31.6294723", "-7.981084499999952"),
+    });
+
+    bindInfoWindow(marker, {"query":"Marakesh","lat":"31.6294723","lng":"-7.981084499999952","country":"Morocco","full_address":"Marrakesh, Morocco","hash":"18acdca549c61ecae28698763e1afc41"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("33.5731104", "-7.589843400000063"),
+    });
+
+    bindInfoWindow(marker, {"query":"Casablanca","lat":"33.5731104","lng":"-7.589843400000063","country":"Morocco","full_address":"Casablanca, Morocco","hash":"2110a4ebfff62ff793f69f817d6e658e"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("33.9715904", "-6.849812899999961"),
+    });
+
+    bindInfoWindow(marker, {"query":"Rabat","lat":"33.9715904","lng":"-6.849812899999961","country":"Morocco","full_address":"Rabat, Morocco","hash":"893bdbca1cd910a2b47b5f07e63ddbe4"});
+    bounds.extend(marker.position);
+  
+    var marker = new google.maps.Marker({
+      map: map,
+      icon: markerIcon(),
+      position: new google.maps.LatLng("34.0181246", "-5.00784509999994"),
+    });
+
+    bindInfoWindow(marker, {"query":"Fes, Morocco","lat":"34.0181246","lng":"-5.00784509999994","country":"Morocco","full_address":"Fes, Morocco","hash":"0c35d05d01e1e7dd210ff09fd714d26b"});
+    bounds.extend(marker.position);
+  
   map.fitBounds(bounds);
 }
 </script>
