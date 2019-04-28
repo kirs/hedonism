@@ -11,6 +11,9 @@
 
 * kaffemik
 * Das Möbel Cafe (laptop friendly)
+* CaffèCouture
+* Kaffeefabrik
+* Café EL.AN
 
 ## Outdoor
 
