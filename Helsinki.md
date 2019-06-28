@@ -6,6 +6,8 @@
 
 http://yle.fi/uutiset/new_eco-friendly_public_sauna_opens_in_helsinki/8914586
 
+* Sompasauna: the public (pirate) sauna
+
 # Coffee
 
 * Johan & Nyström
