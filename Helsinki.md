@@ -4,9 +4,8 @@
 
 # Sauna
 
-http://yle.fi/uutiset/new_eco-friendly_public_sauna_opens_in_helsinki/8914586
-
-* Sompasauna: the public (pirate) sauna
+* [Sompasauna](http://www.sompasauna.fi/?page_id=263): the public (pirate) sauna. My favourite spot: you can take a sauna and jump to the sea, and then bbq food that you've brought with you.
+* http://yle.fi/uutiset/new_eco-friendly_public_sauna_opens_in_helsinki/8914586
 
 # Coffee
 
@@ -17,10 +16,15 @@ http://yle.fi/uutiset/new_eco-friendly_public_sauna_opens_in_helsinki/8914586
 * Sävy
 * Cardemumma
 * Bergga
+* Teurastamon Päiväkahvibaari
+
+# Drinks
+
+* Stadin Panimo (microbrewery)
 
 # Food
 
-* Alppilan Ravintola (go for Finnish cousine)
+* Pompier (for lunch)
 * Chalupa Food Machete
 * Fafa's (falafel)
 * Barbarossa Pizza & Kebab (5 eur pizza worth its money)
