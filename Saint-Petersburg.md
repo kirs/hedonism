@@ -7,6 +7,8 @@
 
 * Bar brimborium (nastoiki)
 
+* Анонимное общество усердных дегустаторов
+
 ## Coffee
 
 * Смена (Smena)
