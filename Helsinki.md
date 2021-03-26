@@ -5,7 +5,8 @@
 # Sauna
 
 * [Sompasauna](http://www.sompasauna.fi/?page_id=263): the public (pirate) sauna. My favourite spot: you can take a sauna and jump to the sea, and then bbq food that you've brought with you.
-* http://yle.fi/uutiset/new_eco-friendly_public_sauna_opens_in_helsinki/8914586
+* Kulttuurisauna
+* [Löyly](https://yle.fi/uutiset/osasto/news/new_eco-friendly_public_sauna_opens_in_helsinki/8914586)
 
 # Coffee
 
