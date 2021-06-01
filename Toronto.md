@@ -9,5 +9,6 @@
 * Jack Pot Chicken Rice
 * WVRST (sausages and beer)
 * [Otto's Berlin Döner](http://ottosdoner.com/)
+* [Country style Hungarian](http://countrystylehungarian.com/)
 
-(all credits to @Sirupsen)
+(many credits to @Sirupsen)
