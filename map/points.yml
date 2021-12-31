@@ -554,3 +554,20 @@
   country: Morocco
   full_address: Fes, Morocco
   hash: 0c35d05d01e1e7dd210ff09fd714d26b
+- lat: '37.7749295'
+  lng: "-122.4194155"
+  country: United States
+  full_address: San Francisco, CA, USA
+  hash: ba3d27eff2758705f33c00ebb268b077
+  guide: San-Francisco.md
+- lat: '51.2213404'
+  lng: '4.4051485'
+  country: Belgium
+  full_address: Antwerp, Belgium
+  hash: e86a9d6b3f0b826a13585884fe8a414c
+  guide: Antwerp.md
+- lat: '43.318334'
+  lng: "-1.9812313"
+  country: Spain
+  full_address: Donostia-San Sebastian, Gipuzkoa, Spain
+  guide: "San-Sebastian.md"
