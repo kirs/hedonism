@@ -18,6 +18,10 @@ module Helpers
     points.each do |point|
       point.delete("query")
 
+      unless point["hash"]
+        point["hash"] = hash_for(point)
+      end
+
       next if point["guide"]
 
       guide = "#{point["full_address"].split(",").first}.md"
