@@ -9,6 +9,7 @@
   lng: "-118.46948320000001"
   country: United States
   full_address: Venice, Los Angeles, CA, USA
+  guide: Venice.md
 - query: sunnyvale, CA
   lat: '37.36883'
   lng: "-122.0363496"
@@ -36,16 +37,19 @@
   lng: "-9.139336599999979"
   country: Portugal
   full_address: Lisbon, Portugal
+  guide: Lisbon.md
 - query: porto, portugal
   lat: '41.1579438'
   lng: "-8.629105299999992"
   country: Portugal
   full_address: Porto, Portugal
+  guide: Porto.md
 - query: paris, france
   lat: '48.856614'
   lng: '2.3522219000000177'
   country: France
   full_address: Paris, France
+  guide: Paris.md
 - query: minsk, belarus
   lat: '53.90453979999999'
   lng: '27.561524400000053'
@@ -67,6 +71,7 @@
   lng: '18.068580800000063'
   country: Sweden
   full_address: Stockholm, Sweden
+  guide: Stockholm.md
 - query: oslo, norway
   lat: '59.9138688'
   lng: '10.752245399999993'
@@ -103,6 +108,7 @@
   lng: '30.523400000000038'
   country: Ukraine
   full_address: Kiev, Ukraine
+  guide: Kiev.md
 - query: tbilisi, georgia
   lat: '41.7151377'
   lng: '44.82709599999998'
@@ -158,6 +164,7 @@
   lng: '12.496365500000024'
   country: Italy
   full_address: Rome, Italy
+  guide: Rome.md
 - query: milan, italy
   lat: '45.4654219'
   lng: '9.18592430000001'
@@ -200,6 +207,7 @@
   lng: '100.50176510000006'
   country: Thailand
   full_address: Bangkok, Thailand
+  guide: Bangkok.md
 - query: macao
   lat: '22.198745'
   lng: '113.54387300000008'
@@ -344,6 +352,7 @@
   lng: "-0.12775829999998223"
   country: United Kingdom
   full_address: London, UK
+  guide: London.md
 - query: Bratislava, Slovakia
   lat: '48.1485965'
   lng: '17.107747700000004'
@@ -374,11 +383,13 @@
   lng: '28.97835889999999'
   country: Turkey
   full_address: Istanbul, İstanbul, Turkey
+  guide: Istanbul.md
 - query: Zagreb, Croatia
   lat: '45.8150108'
   lng: '15.981918899999982'
   country: Croatia
   full_address: Zagreb, Croatia
+  guide: Zagreb.md
 - query: Ljubjana, Slovenia
   lat: '46.0569465'
   lng: '14.505751499999974'
@@ -394,6 +405,7 @@
   lng: '12.31551509999997'
   country: Italy
   full_address: Venice, Metropolitan City of Venice, Italy
+  guide: Venice.md
 - query: Trieste, Italy
   lat: '45.6495264'
   lng: '13.77681819999998'
