@@ -14,6 +14,16 @@ module Helpers
     }
   end
 
+  def save_points(points)
+    File.open("points.yml", "w") do |f|
+      f.write(points.to_yaml)
+    end
+
+    File.open("points.json", "w") do |f|
+      f.write(points.to_json)
+    end
+  end
+
   def hash_for(point)
     hash = [point.fetch("lng"), point.fetch("lat")].join("_")
     Digest::MD5.hexdigest(hash)

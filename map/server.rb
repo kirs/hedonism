@@ -16,9 +16,7 @@ post "/submit" do
   points = Helpers.read_points
   points << params
 
-  File.open("points.yml", "w") do |f|
-    f.write(points.to_yaml)
-  end
+  Helpers.save_points(points)
 
   status 200
 end
@@ -27,19 +25,15 @@ get "/points" do
   points = Helpers.get_points
 
   points.each do |point|
-    point.delete("hash")
     next if point["guide"]
 
     guide = "#{point["full_address"].split(",").first}.md"
-    puts guide
     if File.file?("../#{guide}")
       point["guide"] = guide
     end
   end
 
-  File.open("points.yml", "w") do |f|
-    f.write(points.to_yaml)
-  end
+  Helpers.save_points(points)
 
   json points
 end
