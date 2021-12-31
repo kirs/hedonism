@@ -7,7 +7,6 @@ require "yaml"
 require "erb"
 
 require_relative './helpers'
-require_relative './static_map'
 
 get "/" do
   send_file "public/admin.html"
@@ -21,13 +20,27 @@ post "/submit" do
     f.write(points.to_yaml)
   end
 
-  StaticMap.render
-
   status 200
 end
 
 get "/points" do
   points = Helpers.get_points
+
+  points.each do |point|
+    point.delete("hash")
+    next if point["guide"]
+
+    guide = "#{point["full_address"].split(",").first}.md"
+    puts guide
+    if File.file?("../#{guide}")
+      point["guide"] = guide
+    end
+  end
+
+  File.open("points.yml", "w") do |f|
+    f.write(points.to_yaml)
+  end
+
   json points
 end
 
