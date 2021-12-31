@@ -13,3 +13,8 @@
 
 * Смена (Smena)
 * Пенка (Пенка)
+* Coffee 3
+
+## Other places
+
+* Подписные издания (the best bookshop, they serve coffee and snacks too)
