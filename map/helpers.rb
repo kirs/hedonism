@@ -15,6 +15,17 @@ module Helpers
   end
 
   def save_points(points)
+    points.each do |point|
+      point.delete("query")
+
+      next if point["guide"]
+
+      guide = "#{point["full_address"].split(",").first}.md"
+      if File.file?("../#{guide}")
+        point["guide"] = guide
+      end
+    end
+
     File.open("points.yml", "w") do |f|
       f.write(points.to_yaml)
     end

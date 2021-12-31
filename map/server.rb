@@ -23,16 +23,6 @@ end
 
 get "/points" do
   points = Helpers.get_points
-
-  points.each do |point|
-    next if point["guide"]
-
-    guide = "#{point["full_address"].split(",").first}.md"
-    if File.file?("../#{guide}")
-      point["guide"] = guide
-    end
-  end
-
   Helpers.save_points(points)
 
   json points
