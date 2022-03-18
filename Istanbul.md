@@ -6,13 +6,11 @@
 * Arter
 * Istanbul Modern Museum
 
-
 # Bike Routes
 
 * Karaköy - Kabataş - Beşiktaş - Bebek - Yeniköy - Sarıyer - Garipçe
 * Kadıköy - Tuzla (On the sea side.)
 * Şile - Ağva
-
 
 # Food and cofee
 
@@ -31,18 +29,16 @@
 * Walter's Coffee
 * Federal (Great working place but coffee is not the best)
 
-
-# Desert
+## Desert
 
 * Karakoy Gulluoglu (baklava with ice cream)
 
-
-#Local Drinks (Without Alcohol)
+## Local Drinks (Without Alcohol)
 
 * Ali Muhiddin Karabekir (You must try "Demirhindi".)
 
 
-# Breakfast
+## Breakfast
 
 * Namlı Karaköy (The best breakfast in town but not so cheap.)
 * Siyah Beşiktaş
@@ -51,26 +47,22 @@
 * Emek Cafe (Near the sea.)
 * Çınaraltı (You can bring your own food. Near the sea.)
 
-
-# Fast Food
+## Fast Food
 
 * Rulo (Subway like wrap) ==> Vegan
-* Joint Burger (Best hand-made burger in the town.)
 * Karadeniz Döner (The best "Döner" in town.)
 * Taka Balık (Great prices with awesome view.)
 
-
-# Restraunt
+## Restraunt
 
 * Balkan Lokantasi (Cheap and delicious home food.)
 * Ot (Beşiktaş locataion's pizzas are really good.)
 
-# Bistro
+## Bistro
 
 * Socrates Bistro (A lot of beer with delicious food.)
 
-
-#Fine Dining
+## Fine Dining
 
 * Mikla (The world's 53rd best restraunt.)
 * Long Bar (In the Raffles Hotel)
@@ -78,27 +70,54 @@
 * Badau (Good food with very good live jazz performances.)
 
 
-# Metal Bar
+## Metal Bar
 
 * Dorock (You can listen the bestlocal bands live.)
 
 
-# Rock Bar
+## Rock Bar
 
 * Rock'n Rolla (Taksim is much better than Kadıköy.)
 * Wizard Pub
 
 
-# Jazz bar
+## Jazz bar
 
 * Nardis Jazz Bar (The best jazz band in the town.)
 * Kaset Mitanni (Cozy place with a lot of jam sessions.)
 
 
-# Beach
+## Beach
 
 * Suma Beach
 
-# Where to stay
+## Where to stay
 
-* Beşiktaş area is my favourite
+* ~Beşiktaş area is my favourite~
+* **Moda, Kadıköy**
+  * The only downside of living in Kadıköy is that getting back home from the European side can be more tricky in the night. The last ferry goes around 11pm and many taxis are not willing to drive to Asian side.
+
+## Moda neigbourhood recomendations
+
+(from my Airbnb host)
+
+### Coffee Shops
+
+* Kronotrop (moda Str.)
+* Fahriye Sagfiye
+* Kutup Moda
+* Aralık
+
+### food
+
+* Yer
+* Dün
+* 700gr
+* Pizza Locale
+* Ororo sushi
+
+## Night out
+
+* Karga
+* Bina
+* Arkaoda
