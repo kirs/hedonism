@@ -1,3 +1,7 @@
+## Coffee
+
+* de koffieschenkerij
+
 ## Food
 
 * Moeders (home/local cuisine)
