@@ -484,3 +484,19 @@
   full_address: Donostia-San Sebastian, Gipuzkoa, Spain
   guide: San-Sebastian.md
   hash: bc45884aa1546d67ae56c3f9578da456
+- lat: '49.2827291'
+  lng: "-123.1207375"
+  country: Canada
+  full_address: Vancouver, BC, Canada
+  hash: a0399f95d4941e29f8ec30d735fb8f6b
+  guide: Vancouver.md
+- lat: '49.1529842'
+  lng: "-125.9066184"
+  country: Canada
+  full_address: Tofino, BC, Canada
+  hash: 07e48155f731809c9a38ba3d826401da
+- lat: '49.7016339'
+  lng: "-123.1558121"
+  country: Canada
+  full_address: Squamish, BC, Canada
+  hash: ca2dceba2dc2402852f3f04aa51c3fd2

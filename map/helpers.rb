@@ -1,5 +1,6 @@
 require 'yaml'
 require 'digest'
+require "json"
 
 module Helpers
   extend self
@@ -35,7 +36,7 @@ module Helpers
     end
 
     File.open("points.json", "w") do |f|
-      f.write(points.to_json)
+      f.write(JSON.pretty_generate(points))
     end
   end
 
