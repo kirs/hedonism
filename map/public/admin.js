@@ -22,6 +22,8 @@ function codeAddress(map, address) {
           icon: markerIcon(),
         });
       } else {
+        let statusContainer = document.querySelector('.error-message');
+        statusContainer.textContent = status;
         reject('Geocode was not successful for the following reason: ' + status);
       }
     });

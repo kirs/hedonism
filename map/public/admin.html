@@ -18,11 +18,16 @@
        .app {
          padding: 0 10px 0 10px;
        }
+       .error-message {
+         color: red;
+         padding-bottom: 6px;
+       }
     </style>
   </head>
   <body>
     <div class="app">
       <input class="address-field" placeholder="City to add..." type="text" />
+      <div class="error-message"></div>
       <div id="map"></div>
     </div>
     <script src="admin.js"></script>
