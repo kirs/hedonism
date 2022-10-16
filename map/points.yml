@@ -500,3 +500,15 @@
   country: Canada
   full_address: Squamish, BC, Canada
   hash: ca2dceba2dc2402852f3f04aa51c3fd2
+- lat: '45.515232'
+  lng: "-122.6783853"
+  country: United States
+  full_address: Portland, OR, USA
+  hash: b1802bc9ffb617b0dd850f7b387c9e9e
+  guide: Portland.md
+- lat: '47.6062095'
+  lng: "-122.3320708"
+  country: United States
+  full_address: Seattle, WA, USA
+  hash: eedaf2090f6bd20c8707d9a5dbfce352
+  guide: Seattle.md
