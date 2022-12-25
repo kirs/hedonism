@@ -12,3 +12,10 @@
 * [Country style Hungarian](http://countrystylehungarian.com/)
 
 (many credits to @Sirupsen)
+
+## Pizza by slice
+
+* Pizzeria Badiali
+* Mac’s Pizza
+* Superpoint
+* North of Brooklyn 
