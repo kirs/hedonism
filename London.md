@@ -6,8 +6,9 @@
 
 * Cafe 338
 * E Pellicci (A++ brunches in East London)
-* Franca manca (local chain with sourdough pizza)
+* Beigel Bake (legendary 24/7 beigel shop on Brick Lane, salt beef beigel a must-try)
 * Whitecross Street Market (open weekdays, noon - 2pm)
+* Franca manca (a chain across all of the UK with decent sourdough pizza)
 
 ## Restaurants
 
@@ -61,3 +62,8 @@ All places are laptop friendly!
 ## Where to stay
 
 * Hackney, Hackney, Hackney! It's hip and effordable.
+
+## Going out
+
+* Dalston Jazz Club (open 3 days a week, only pay for drinks)
+* 

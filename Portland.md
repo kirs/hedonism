@@ -1,5 +1,5 @@
 
-Things to do
+## Things to do
 
 * Browse books in **Powell's City of Books** (they sell used and new books)
 * Watch a movie in **Cinema 21**, a vintage theater
@@ -26,8 +26,6 @@ Things to do
 
 ### Other activities
 
-* If you're going camping, go to [Next Adventure](https://www.google.com/maps/place/Next+Adventure/@45.5160095,-122.6647758,15.62z/data=!4m13!1m7!3m6!1s0x54950b0b7da97427:0x1c36b9e6f6d18591!2sPortland,+OR,+USA!3b1!8m2!3d45.515232!4d-122.6783853!3m4!1s0x0:0x72795722375e344a!8m2!3d45.5194848!4d-122.6604253) - their basement floor has great deals and I could equip for camping for $100 total.
+* If you're going camping, check out [Next Adventure](https://www.google.com/maps/place/Next+Adventure/@45.5160095,-122.6647758,15.62z/data=!4m13!1m7!3m6!1s0x54950b0b7da97427:0x1c36b9e6f6d18591!2sPortland,+OR,+USA!3b1!8m2!3d45.515232!4d-122.6783853!3m4!1s0x0:0x72795722375e344a!8m2!3d45.5194848!4d-122.6604253) - their basement floor has great deals and I could equip for camping for $100 total.
 * Drive to Columbia River George and Multnomah Falls
-* Drive futher that scentic route and make it around Mt Hood and camp somewhere in the area.
-
-<img width="741" alt="Screen Shot 2022-10-16 at 9 06 46 AM" src="https://user-images.githubusercontent.com/522155/196045827-46bf8583-20e2-43d7-98c6-93a2093189f3.png">
+* Drive futher that scentic route and make it around Mt Hood and camp somewhere in the area ([map](https://user-images.githubusercontent.com/522155/196045827-46bf8583-20e2-43d7-98c6-93a2093189f3.png))

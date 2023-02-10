@@ -8,7 +8,7 @@
 
 * Five Elephant Kreuzberg
 * Bonanza Coffee
-* **Populus Coffee**
+* Populus Coffee
 
 # Food
 

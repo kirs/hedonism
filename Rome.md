@@ -9,6 +9,8 @@ Tip: ask for café normale.
 
 ## Food
 
+Tip: working hours can be strict. Plan your dinner ahead!
+
 * Er Buchetto (pork sandwiches)
 * Pizzeria ai Marmi (Viale di Trastevere, 53/57)
   * Monday, Thursday to Sunday: 6:30 pm – 2:30 am
@@ -16,6 +18,9 @@ Tip: ask for café normale.
   * Wednesday closed
 * Pizzeria Nerone (Via del Moro, 43)
   * Monday to Sunday: 7:00 pm – 12:30 am
+* Ristorante Nino for pasta
+* Enoteca Antica
+
 
 ## The rest
 

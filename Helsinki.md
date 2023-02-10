@@ -1,14 +1,16 @@
-# Guides
+## Guides
 
 * [In Russian](https://perito-burrito.com/posts/helsinki-flow)
 
-# Sauna
+## Sauna
 
-* [Sompasauna](http://www.sompasauna.fi/?page_id=263): the public (pirate) sauna. My favourite spot: you can take a sauna and jump to the sea, and then bbq food that you've brought with you.
+It's a must to check out a sauna while you're in Finland.
+
 * Kulttuurisauna
 * [Löyly](https://yle.fi/uutiset/osasto/news/new_eco-friendly_public_sauna_opens_in_helsinki/8914586)
+* [Sompasauna](http://www.sompasauna.fi/?page_id=263): the public (pirate) sauna. My favourite spot: you can take a sauna and jump to the sea, and then bbq food that you've brought with you.
 
-# Coffee
+## Coffee
 
 * Johan & Nyström
 * Kaffecentralen
@@ -19,11 +21,11 @@
 * Bergga
 * Teurastamon Päiväkahvibaari
 
-# Drinks
+## Drinks
 
 * Stadin Panimo (microbrewery)
 
-# Food
+## Food
 
 * Pompier (for lunch)
 * Chalupa Food Machete

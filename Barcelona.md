@@ -1,4 +1,4 @@
-Enrique Tomás - Diagonal/Mallorca. Take jamon sandwich
 
-* Cafe Fresco - unlimited buffet
+* Enrique Tomás at Diagonal/Mallorca. Take jamon sandwich
+
 * [Espai Joliu](http://www.inandoutbarcelona.net/es/espai-joliu/) - concept store and cafe

@@ -1,6 +1,6 @@
 ## Museums
 
-* Getty (reserve at least 3 hrs)
+* Getty (plan at least a few hours)
 * The Broad
 
 ## Shopping

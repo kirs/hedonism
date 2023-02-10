@@ -33,23 +33,12 @@ Good for something else:
 
 # Food
 
-* La banquise = poutine
-* Au Pied de Cochon (fancy but worth it)
+* [Joe Beef](http://joebeef.ca/) (Canadian, $$$, get a reservation)
+* Au Pied de Cochon ($$$ but worth it as well)
+* Dinette Triple Crown (Southern-American)
 * Vietnamese ice cream
 * Yokato Yokabai (ramen)
-* [Joe Beef](http://joebeef.ca/)
 * Icehouse (tex-mex)
 * La Tamalera
-* Dinette Triple Crown
 
 * [Montréal Plaza](https://montrealplaza.com/en/)
-
-# Vintage stores
-
-http://www.mtlblog.com/2014/04/best-montreal-thrift-shops/
-
-http://www.tourisme-montreal.org/blog/thrift-shop-montreal-travel-thrifting-fashion/
-
-https://www.yelp.ca/search?cflt=thrift_stores&find_loc=Montr%C3%A9al%2C+QC
-
-http://www.themainmtl.com/2014/03/best-vintage-stores-montreal/

@@ -1,7 +1,7 @@
 ## Food
 
 * Japadog, features hotdogs with Japanese flavors, including yakisoba, okonomiyaki, and kurobuta.
-* Their There for amazing donuts (coffee and sandwidges are really good too)
+* Their There (come for Canadian-style brunch or for mochi doughnuts and coffee)
 * Ramen Dambo
 * Hokkaido Ramen Santouka
 * Marutama Ramen
@@ -11,7 +11,7 @@
 
 ## Coffee
 
-* Modus -- the best one for 3rd wave coffee. Get a pour-over or buy beans home.
+* Modus (probably the best one for 3rd wave coffee. Get a pour-over or buy beans for home)
 * Their There
 * Platform 7 Coffee
 
