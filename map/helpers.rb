@@ -23,6 +23,17 @@ module Helpers
         point["hash"] = hash_for(point)
       end
 
+      point["lat"] = point["lat"].to_f
+      point["lng"] = point["lng"].to_f
+
+      if !point["name"] && point["guide"]
+        point["name"] = point["guide"].sub(".md", "")
+      end
+
+      if !point["permalink"] && point["guide"]
+        point["permalink"] = point["guide"].sub(".md", "").downcase.gsub(/[^a-z0-9]+/, "-")
+      end
+
       next if point["guide"]
 
       guide = "#{point["full_address"].split(",").first}.md"

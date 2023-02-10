@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "json"
+require "yaml"
+
+require_relative './helpers'
+
+points = Helpers.read_points
+Helpers.save_points(points)
