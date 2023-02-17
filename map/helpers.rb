@@ -6,7 +6,7 @@ module Helpers
   extend self
 
   def read_points
-    YAML.load(File.read("points.yml"))
+    JSON.parse(File.read("points.json"))
   end
 
   def get_points
@@ -40,10 +40,6 @@ module Helpers
       if File.file?("../#{guide}")
         point["guide"] = guide
       end
-    end
-
-    File.open("points.yml", "w") do |f|
-      f.write(points.to_yaml)
     end
 
     File.open("points.json", "w") do |f|

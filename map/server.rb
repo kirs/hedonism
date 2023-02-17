@@ -32,8 +32,8 @@ delete "/points/:id" do
   points = Helpers.read_points
   points.delete_if { |point| Helpers.hash_for(point) == params[:id].to_s }
 
-  File.open("points.yml", "w") do |f|
-    f.write(points.to_yaml)
+  File.open("points.json", "w") do |f|
+    f.write(JSON.pretty_generate(points))
   end
 
   status 200
