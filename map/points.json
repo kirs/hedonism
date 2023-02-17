@@ -14,7 +14,8 @@
     "guide": "Los-Angeles.md",
     "hash": "cf97201cab2cdc34057d34025a894d28",
     "name": "Los Angeles",
-    "permalink": "los-angeles"
+    "permalink": "los-angeles",
+    "highlight": true
   },
   {
     "lat": 37.36883,
@@ -157,7 +158,8 @@
     "guide": "Berlin.md",
     "hash": "4606260d4981ac472320c552fa3ab012",
     "name": "Berlin",
-    "permalink": "berlin"
+    "permalink": "berlin",
+    "highlight": true
   },
   {
     "lat": 50.4501,
@@ -174,10 +176,10 @@
     "lng": 44.82709599999998,
     "country": "Georgia",
     "full_address": "Tbilisi, Georgia",
-    "guide": "Georgia.md",
     "hash": "a76fe7cfa82a73724ac2da9d6b8ef330",
     "name": "Georgia",
-    "permalink": "georgia"
+    "guide": "Tbilisi.md",
+    "permalink": "tbilisi"
   },
   {
     "lat": 56.83892609999999,
@@ -759,6 +761,7 @@
     "hash": "b1802bc9ffb617b0dd850f7b387c9e9e",
     "guide": "Portland.md",
     "name": "Portland",
+    "highlight": true,
     "permalink": "portland"
   },
   {

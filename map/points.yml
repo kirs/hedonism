@@ -12,6 +12,7 @@
   hash: cf97201cab2cdc34057d34025a894d28
   name: Los Angeles
   permalink: los-angeles
+  highlight: true
 - lat: 37.36883
   lng: -122.0363496
   country: United States
@@ -134,10 +135,10 @@
   lng: 44.82709599999998
   country: Georgia
   full_address: Tbilisi, Georgia
-  guide: Georgia.md
   hash: a76fe7cfa82a73724ac2da9d6b8ef330
   name: Georgia
-  permalink: georgia
+  guide: Tbilisi.md
+  permalink: tbilisi
 - lat: 56.83892609999999
   lng: 60.60570250000001
   country: Russia
