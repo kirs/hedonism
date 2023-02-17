@@ -1,4 +1,6 @@
-[Tips by Cheryl Howard](http://cherylhoward.com/berlin/things-to-do-in-berlin/)
+# Guides
+
+* [Tips by Cheryl Howard](https://web.archive.org/web/20210226090306/http://cherylhoward.com/berlin/things-to-do-in-berlin/)
 
 # Locals
 
@@ -9,9 +11,13 @@
 * Five Elephant Kreuzberg
 * Bonanza Coffee
 * Populus Coffee
+* Zeit für Brot (for pastries)
 
 # Food
 
+* Zula Restaurant (israeli cuisine, lots of hummus)
+* Chandni (indian)
+* Arirang Bulgogi (korean)
 * Prinzessinnengärten for drinks and lunch in summer
 * Twinpigs - bar & food
 * [Thaipark](http://www.thaipark.de/) - thai street food park, open in summer

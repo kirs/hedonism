@@ -1,5 +1,3 @@
-[Google Map with points (in Russian)](https://www.google.com/maps/d/u/0/edit?mid=1cCGVWj4TBjEoD69AgKpAHEUpbss)
-
 # Coffee
 
 * **Massolit cafe <-- my favourite**
@@ -7,6 +5,7 @@
 * Contact Coffee <-- the best if you're looking especially for good coffee
 * Goat Herder
 * Fekete
+* Flow Specialty Coffee Bar & Bistro (vegan, good for lunch)
 
 # Gastro bars
 
@@ -16,13 +15,12 @@
 
 # Restaurants
 
-* Bordo Bisztro
+* Két Szerecsen
 * First Strudel House of Pest (Reteshaz)
 
 # Other (mostly food)
 
 * Pancakes: Nagyi Palacsintázója
-* Cheap drinks: Csipesz Bar
 
 ## Street food
 
@@ -35,3 +33,7 @@ Budapest is really close to Vienna which is one of my favourite cities.
 If you have an extra day, you can take a bus or train there. It's only 2.5 hours from Budapest.
 
 For cheapest option, take orange lines bus (15 eur). For more comfortable option with wifi onboard, take the train (20-30 eur).
+
+# Etc
+
+[Google Map with points (in Russian)](https://www.google.com/maps/d/u/0/edit?mid=1cCGVWj4TBjEoD69AgKpAHEUpbss)

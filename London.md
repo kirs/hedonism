@@ -1,7 +1,5 @@
 *Disclaimer: my list is biased towards East London.*
 
-* [Curated list in Google Drive, in Russian](https://docs.google.com/document/d/1NHASRHx-QbNo74UczwzibE9vsqfHbtx3zsd19oHLBOI/mobilebasic)
-
 ## Cheap local food
 
 * Cafe 338
@@ -66,4 +64,8 @@ All places are laptop friendly!
 ## Going out
 
 * Dalston Jazz Club (open 3 days a week, only pay for drinks)
-* 
+* Mikkeller brewpub for craft beer
+
+## Etc
+
+* [Curated list in Google Drive, in Russian](https://docs.google.com/document/d/1NHASRHx-QbNo74UczwzibE9vsqfHbtx3zsd19oHLBOI/mobilebasic)

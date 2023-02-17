@@ -1,12 +1,13 @@
-# Food
+## Food
 
+* Dois Arcos (been going since 2015. Get octopus rice and a bottle of vihno verde)
 * O Treva (local and busy, get a sandwich and beer)
 
 * Cafe de Garagem (with a view)
 * Pistola y Corazon Taqueria
 * Zero zero (pizza)
 
-https://www.lisbonlux.com/lisbon/principe-real.html
+## Places to visit
 
 * Embaixada
 * Pavilhão Chinês
