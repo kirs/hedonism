@@ -443,6 +443,9 @@
     "lat": 46.8138783,
     "lng": -71.2079809,
     "country": "Canada",
+    "guide": "Quebec.md",
+    "name": "Quebec City",
+    "permalink": "quebec",
     "full_address": "Québec City, QC, Canada",
     "hash": "f41eb1ae98927061de29dc6b9ebbdf8d"
   },

@@ -26,6 +26,18 @@ Collection of things all around the Quebec province.
 
 ## Quebec City
 
+* Fine dining-ish:
+
+  * [Chez Boulay](https://chezboulay.com/)
+
+  * [Patente Et Machin](https://www.patenteetmachin.com/)
+
+  * [https://laffaireestketchup.ca/](https://laffaireestketchup.ca/)
+
+  * [https://taniere3.com/](https://taniere3.com/)
+
+  * [https://www.saint-amour.com/](https://www.saint-amour.com/)
+
 * Le Mezzé Taverna Grecque
 
 * Enzo Sushi
