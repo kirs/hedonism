@@ -1,15 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    coderay (1.1.1)
-    method_source (0.8.2)
+    base64 (0.2.0)
     multi_json (1.15.0)
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
-    pry (0.10.4)
-      coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
-      slop (~> 3.4)
     rack (2.2.3)
     rack-protection (2.2.0)
       rack
@@ -25,16 +20,17 @@ GEM
       rack-protection (= 2.2.0)
       sinatra (= 2.2.0)
       tilt (~> 2.0)
-    slop (3.6.0)
     tilt (2.0.10)
+    webrick (1.8.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  pry
+  base64
   sinatra
   sinatra-contrib
+  webrick
 
 BUNDLED WITH
-   1.17.2
+   2.5.11

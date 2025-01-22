@@ -1,12 +1,13 @@
 require "bundler/setup"
 require "sinatra"
 require "sinatra/json"
-require "pry"
 require "json"
 require "yaml"
 require "erb"
 
 require_relative './helpers'
+
+set :public_folder, 'public'
 
 get "/" do
   send_file "public/admin.html"
@@ -38,3 +39,5 @@ delete "/points/:id" do
 
   status 200
 end
+
+Sinatra::Application.run!
