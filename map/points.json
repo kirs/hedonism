@@ -177,7 +177,9 @@
     "country": "Georgia",
     "full_address": "Tbilisi, Georgia",
     "hash": "a76fe7cfa82a73724ac2da9d6b8ef330",
-    "name": "Georgia"
+    "name": "Georgia",
+    "guide": "Tbilisi.md",
+    "permalink": "tbilisi"
   },
   {
     "lat": 56.83892609999999,
@@ -774,5 +776,26 @@
     "guide": "Seattle.md",
     "name": "Seattle",
     "permalink": "seattle"
+  },
+  {
+    "lat": 35.6764225,
+    "lng": 139.650027,
+    "country": "Japan",
+    "full_address": "Tokyo, Japan",
+    "hash": "fa33299d4f423a5e234bce1958c0685a"
+  },
+  {
+    "lat": 34.6937249,
+    "lng": 135.5022535,
+    "country": "Japan",
+    "full_address": "Osaka, Japan",
+    "hash": "69d57a529281132df43f7d1e7435ffb9"
+  },
+  {
+    "lat": 35.6241637,
+    "lng": 134.8131005,
+    "country": "Japan",
+    "full_address": "Kinosaki Onsen, Toyooka, Hyogo, Japan",
+    "hash": "28204fa738cc9ebb5839c39770fba6d3"
   }
 ]
