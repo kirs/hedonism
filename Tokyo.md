@@ -1,4 +1,4 @@
-Start by reading patio11's [Travel recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/). Some of it is dates but here are few things that resonated to me:
+Start by reading patio11's [Travel recommendations for Japan](https://www.kalzumeus.com/japan-recommendations/). Some of it is dated but here are few things that resonated to me:
 
 > 90% of you will want to go to Kyoto or Osaka. I’d tell you to pick Kyoto; Osaka has its charms, and the Osakans will regale you with them endlessly, but Osaka’s charms are like Tokyo’s and Kyoto’s are far less so.
 
