@@ -56,20 +56,20 @@ The **coffee scene** is really weird. You'll find either $20 speciality coffee o
 
 # Logistics
 
-* [Billion Connect](https://www.billionconnect.net) for unlimited data or Airalo if you only need a few GBs
+* ESIM: [Billion Connect](https://www.billionconnect.net) for unlimited data or [Airalo](https://www.airalo.com/) if you only need a few GBs
 
-* Carry passport with you because tax free purchases require it
+* Carry a passport with you because tax free purchases require it
 
 # Activities
 
-* Train museum
+* Tokyo train museum
 * Go for a walk to **Shinjuku Gyoen National Garden**, check out Stabucks with a view inside the garden
 * The Sumida Hokusai Museum (small one)
 * Tokyo Sea Life Park (aquarium)
 
 * **Shopping**
 
-  * Hiking and skiing is really populatar in Japan. Some outdoor gear stores to check out:
+  * Hiking and skiing is really populatar in Japan. A lot of outdoor gear stores to check out:
     * Ishii Sports Tozan Honten
     * Sakaiya Sports Climbing
     * mont-bell
