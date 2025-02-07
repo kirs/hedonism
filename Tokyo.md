@@ -6,7 +6,7 @@ Start by reading patio11's [Travel recommendations for Japan](https://www.kalzum
 
 > If you want ramen, eat ramen sitting next to a salaryman going home from work. If you want sushi, eat at a restaurant a middle-class family would make a special Saturday night out of or a little hole in the wall, not at one whose name appears in the New York Times frequently.
 
-The **coffee scene** is really weird. You'll find either $20 speciality coffee or Starbucks-style chains. There's very little in between. If you're a fan of high-end pour-overs, you'll be very happy (I was not :D)
+The **coffee scene** is really weird. You'll find either $20 speciality coffee or Starbucks-style chains. There's very little in between. If you're a fan of high-end pour-over coffee, Tokyo is your place.
 
 ## Areas to stay
 
