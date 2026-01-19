@@ -62,10 +62,10 @@ The **coffee scene** is really weird. You'll find either $20 speciality coffee o
 
 # Activities
 
-* Tokyo train museum
-* Go for a walk to **Shinjuku Gyoen National Garden**, check out Stabucks with a view inside the garden
+* Go for a walk to **Shinjuku Gyoen National Garden**, check out Stabucks with a view inside the garden. Can be crowded on weekends.
 * The Sumida Hokusai Museum (small one)
 * Tokyo Sea Life Park (aquarium)
+* Tokyo train museum (1-1.5h train ride from the city)
 
 * **Shopping**
 
