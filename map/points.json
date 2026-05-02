@@ -782,7 +782,10 @@
     "lng": 139.650027,
     "country": "Japan",
     "full_address": "Tokyo, Japan",
-    "hash": "fa33299d4f423a5e234bce1958c0685a"
+    "hash": "fa33299d4f423a5e234bce1958c0685a",
+    "guide": "Tokyo.md",
+    "name": "Tokyo",
+    "permalink": "tokyo"
   },
   {
     "lat": 34.6937249,
@@ -797,5 +800,40 @@
     "country": "Japan",
     "full_address": "Kinosaki Onsen, Toyooka, Hyogo, Japan",
     "hash": "28204fa738cc9ebb5839c39770fba6d3"
+  },
+  {
+    "lat": 38.9072873,
+    "lng": -77.0369274,
+    "country": "United States",
+    "full_address": "Washington, DC, USA",
+    "hash": "e335dc3252fa6814d27c54c9919a9186"
+  },
+  {
+    "lat": 19.4326077,
+    "lng": -99.133208,
+    "country": "Mexico",
+    "full_address": "Mexico City, CDMX, Mexico",
+    "hash": "55691c6ae8cf58a39a4388628ce47147"
+  },
+  {
+    "lat": 33.4482948,
+    "lng": -112.0725488,
+    "country": "United States",
+    "full_address": "Phoenix, AZ, USA",
+    "hash": "0473972e867f9754558dfe695b31dc00"
+  },
+  {
+    "lat": 55.86167039999999,
+    "lng": -4.2583345,
+    "country": "United Kingdom",
+    "full_address": "Glasgow, UK",
+    "hash": "a54521d80e9ebe2dac3826a391550932"
+  },
+  {
+    "lat": 57.413346,
+    "lng": -6.194742600000001,
+    "country": "United Kingdom",
+    "full_address": "Portree IV51, UK",
+    "hash": "96d8b839e2c9f65889b1e3c7b28c36c0"
   }
 ]
